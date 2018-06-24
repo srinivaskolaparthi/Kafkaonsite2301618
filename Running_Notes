@@ -1,0 +1,132 @@
+Day1:
+------------------------
+Kafka introduction, Messaging systems, installation steps,topic  architecture and workflow, kafka role in devops and microservices
+
+Zookeeper introduction,producer & consumer architectures,kafka from commandline,Spring boot with kafka,sample applications
+
+Partions,message delivery and ordering,fault tolerance in kafka and Kafka tools
+--------------------------------------------------------------------------------------
+
+DEVOPS/MICROSERVICES/Cloud features
+
+Automation
+
+Service to service communication can be done in multiple.1 way is thru messaging services
+Example:Kafka/rabbitmq/ActiveMQ/IBM mqSeries.......etc
+
+ADvantage: can be used in composite webservices designing
+2)It can be used in Microservices.
+3)Kafka is one of the best tool for streaming.
+4)Kafka is mainly used in data analytics.(Bigdata/Hadoop)
+5)Kafka is used as a combination with Spark.
+6)KAfka can be used in IOT(sensors)/Deep learning.
+7)Kafka can be used in designming and implementing of Social networking sites whthere data flow is high.
+8)Now a days is used in Feeds like RSS feeds.......
+
+Dis:No proper verified tools for monitoring kafka,No exe,no more no of connectors for kafka(except confluent)
+
+
+Why kafka? Speed/Accuracy/Fault tolerance/Policys implemted by kafka and good node management
+
+befor HAdoop/big data; dealing with unstructured data is one the pain ful job.
+
+ before Streaming architectures:There is no performacne in app where data is more.
+ 
+ more Expense,labour cost
+ 
+ Now:more automation,every thing is speed,we can handle huge amount of data.
+ kafka  ---is not pure JMS tool
+ TCP
+ RABBIT MQ---HTTP/AMQP
+ 
+ MIDDLEWARE SERVICES(messaging serrvice is also one middleware service):15 years ,we usually design middle ware services using CORBA.
+ 1 middleware service code is around 5---20lakh lines
+ 14*20lakhs
+ 
+ All APP servers rproviding middleservice fatures by default.
+ 
+ KAfka is one of the best Streaming distributed messaging tool.
+ 
+ Messaging tools transfer data from one point to another point.
+ 
+ Ex:MEssaging service tools.
+ 
+Producer------>Consumer
+ 
+Srinivas------>Kafka knowledge(data)------>learners r consuming
+in srinivas brain.
+ 
+ Messaging service:  KAfka is not database.
+ kafka is not a IOT tool.iT is helper tool.  KAfka acts as a broker.
+ ----------------------------------------------------------------------------------
+ java :Byte(1byte) vs char(2 bytes)
+ 
+ will Byte transfer faster? or char will be transfered faster?
+ 
+ IN streaming always bytes will be used.kafka uses streaming approach.
+ 
+ Elastic search/Splunk/logstash....
+ 
+ Example:Discover account/Willis Account(capge),Linkedin......
+ 
+ 
+ S/w:JDk1.8,Chrome,Eclipse Luna/mars,mysql db(any version),7zip.
+ 
+  transtive Dependency:Zookeeper for kafka.
+ 
+ Spring Boot+Kafka
+ KAfa app using java,Single node/multi node config,one microservice implementation.
+
+Reqyuirement on kafka connector in microservices impl.Customer ESB buses.MuleSoft/Apache camel. 
+zookeper port no:2181
+------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
